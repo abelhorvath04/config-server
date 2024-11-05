@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/fhburgenland-bswe/ha-microservices-architecture-gruppe9
+          uri: https://github.com/abelhorvath04/config-server.git
           default-label: main
           search-paths:
             - config-repo
