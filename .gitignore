@@ -32,4 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 /src/main/resources/application.properties
-/src/main/resources/config/ha1_microservice.properties
+/src/main/resources/config/ha1-microservice.properties
